@@ -223,4 +223,4 @@ __marimo__/
 .streamlit/secrets.toml
 
 #Git ignore toda la carpeta de datos
-experiments.md/
+data/
